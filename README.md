@@ -18,4 +18,13 @@ If you specify the country code which should be in this format
 Czech republic.
 
 # API key
-For safety purposes 
+For safety purposes use your own API key generated at
+[OpenWeather](https://openweathermap.org/) and put it on line 207
+instead of "YOUR_API_KEY" in quotation marks.
+Without it program is not going to work.
+
+# Requirements
+Some additional libraries are required to run this code.
+Using new virtual environment is recommended.
+Install requirements by putting this code in terminal.
+> pip install -r requirements.txt
