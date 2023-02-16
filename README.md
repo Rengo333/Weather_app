@@ -8,7 +8,7 @@ from [OpenWeather](https://openweathermap.org/).
 You can use either show current weather button or show today weather
 button to see what you are interested in.
 There is also a button to change the units
-to display the temperature using Celsius or Fahreinheit.
+to display the temperature in Celsius or Fahreinheit.
 
 # Search 
 
