@@ -1,5 +1,0 @@
-Pillow~=9.4.0
-style~=1.1.0
-pip~=21.1.1
-setuptools~=49.2.1
-requests~=2.25.1
