@@ -15,7 +15,7 @@ to display the temperature in Celsius or Fahreinheit.
 There is a way to show the weather for "less known towns".
 If you specify the country code which should be in this format
 "GB" for England, "US" for United States of America or "CZ" for
-Czech republic.
+Czech republic etc..
 
 # API key
 
